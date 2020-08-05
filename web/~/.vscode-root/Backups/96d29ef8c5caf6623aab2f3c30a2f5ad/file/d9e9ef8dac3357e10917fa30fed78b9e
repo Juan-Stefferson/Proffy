@@ -1,0 +1,7 @@
+file:///home/juan/www/NLW2/web/src/pages/Lading/index.tsx {"mtime":1596503042209,"ctime":1596503042209,"size":0,"etag":"35fsp35dk0","orphaned":false}
+import React from 'react';
+
+function Lading()
+{
+    return<
+}
